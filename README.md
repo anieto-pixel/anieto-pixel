@@ -23,6 +23,15 @@ ZarcFit-Demo is a scientific GUI that helps researchers model rock sample impeda
 
 > 🧩 Designed to make impedance modeling accessible to non-programmer researchers.
 
+<div style="display: flex; gap: 10px;">
+  <img src="images/ZarcFit.png" alt="ZarcFit Demo UI" width="400"/>
+  <img src="images/ZarcFitTime.png" alt="ZarcFit Time Domain View" width="400"/>
+</div>
+
+<p><strong>Interactive UI of ZarcFit-Demo with sliders and live plots.</strong></p>
+
+**Interactive UI of ZarcFit-Demo with sliders and live plots.**
+
 ---
 
 ### 🌌 [Pick-Pulsar-Classifier](https://github.com/anieto-pixel/Pick-Pulsar-Classifier)  
