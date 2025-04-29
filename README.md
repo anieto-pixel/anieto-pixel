@@ -1,7 +1,7 @@
 # Hi, I'm Alicia Nieto  
 Python Developer • Data Science Enthusiast • Scientific Computing
 
-Welcome! I build intelligent tools that empower scientific analysis, from rock sample modeling to pulsar classification. My work often focuses on building human-centered applications that combine usability with rigor.
+Welcome! I build intelligent tools that empower data analysis, from rock sample modeling to pulsar classification. My work often focuses on building human-centered applications that combine usability with rigor.
 
 ---
 
@@ -61,6 +61,3 @@ Scientific software design • Data analysis • GUI development • Signal proc
 Want to collaborate or chat about your project? Feel free to reach out:  
 - 📧 Email: aliciagnieto@gmail.com  
 
----
-
-🛠️ *I write software that makes science easier to do and easier to trust.*
