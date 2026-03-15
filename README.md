@@ -8,6 +8,7 @@ Welcome! I build intelligent tools that empower data analysis, from rock sample 
 ## Featured Projects
 
 ### [ZarcFit](https://github.com/anieto-pixel/ZarcFit-Final-Version)  
+Also available at: https://zenodo.org/records/18718505
 *A user-friendly desktop app for fitting the impedance data from rock samples to theoretical models developed by the Canadian Geological Survey*
 
 ZarcFit-Demo is a scientific GUI that helps researchers model rock sample impedance using curve-fitting techniques. It includes an interactive, DPI-aware interface with sliders, dynamic plots, and shortcut keys for streamlined exploration of complex experimental data.
