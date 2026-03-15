@@ -7,7 +7,7 @@ Welcome! I build intelligent tools that empower data analysis, from rock sample 
 
 ## Featured Projects
 
-### ⚡ [ZarcFit](https://github.com/anieto-pixel/ZarcFit-Final-Version)  
+### [ZarcFit](https://github.com/anieto-pixel/ZarcFit-Final-Version)  
 *A user-friendly desktop app for fitting the impedance data from rock samples to theoretical models developed by the Canadian Geological Survey*
 
 ZarcFit-Demo is a scientific GUI that helps researchers model rock sample impedance using curve-fitting techniques. It includes an interactive, DPI-aware interface with sliders, dynamic plots, and shortcut keys for streamlined exploration of complex experimental data.
@@ -21,7 +21,7 @@ ZarcFit-Demo is a scientific GUI that helps researchers model rock sample impeda
   - Flexible file input/output support
   - Tailored for geophysical and materials research workflows
 
-> 🧩 Designed to make impedance modeling accessible to non-programmer researchers.
+>  Designed to make impedance modeling accessible to non-programmer researchers.
 
 <div style="display: flex; gap: 10px;">
   <img src="images/ZarcFit.png" alt="ZarcFit Demo UI" width="400"/>
@@ -34,7 +34,7 @@ ZarcFit-Demo is a scientific GUI that helps researchers model rock sample impeda
 
 ---
 
-### 🌌 [Pick-Pulsar-Classifier](https://github.com/anieto-pixel/Pick-Pulsar-Classifier)  
+###  [Pick-Pulsar-Classifier](https://github.com/anieto-pixel/Pick-Pulsar-Classifier)  
 *Sampler-classifier pipeline testing for astronomical pulsar classification*
 
 This project evaluates how well different classifier and sampler combinations perform in identifying pulsars from a highly imbalanced dataset. It's tailored for **human-in-the-loop (HITL)** systems, where minimizing false negatives is more important than overall accuracy.
@@ -47,11 +47,11 @@ This project evaluates how well different classifier and sampler combinations pe
   - Cross-validation on both balanced and real-world (imbalanced) test sets
   - Visual summary of confusion matrices across strategies
 
-> 📡 Built to help researchers assess and select models for pulsar candidate filtering in large-scale radio astronomy datasets.
+>  Built to help researchers assess and select models for pulsar candidate filtering in large-scale radio astronomy datasets.
 
 ---
 
-## 🔧 Skills & Tools  
+##  Skills & Tools  
 `Python` • `PyQt` • `NumPy` • `pandas` • `scikit-learn` • `matplotlib` • `imbalanced-learn`  
 Scientific software design • Data analysis • GUI development • Signal processing
 
